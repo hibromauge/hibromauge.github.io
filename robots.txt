@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hibromauge.github.io/sitemap.hibromauge.gz
+Sitemap: https://hibromauge.github.io/app/sitemap.hibromauge.gz
+Sitemap: https://hibromauge.github.io/assets/sitemap.hibromauge.gz
+Sitemap: https://hibromauge.github.io/css/sitemap.hibromauge.gz
+Sitemap: https://hibromauge.github.io/data/sitemap.hibromauge.gz
+Sitemap: https://hibromauge.github.io/includes/sitemap.hibromauge.gz
+Sitemap: https://hibromauge.github.io/item/sitemap.hibromauge.gz
+Sitemap: https://hibromauge.github.io/src/sitemap.hibromauge.gz
